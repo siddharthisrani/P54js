@@ -1,4 +1,4 @@
- let store=""
+ let store="" // empty string
 
  let cal=(value)=>{
 
